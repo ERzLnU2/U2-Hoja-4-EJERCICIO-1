@@ -36,7 +36,9 @@ public class Ejercicio1{
     }
 }
 ```
-    <hr>
+
+<hr>
+
 
 ```java
 
