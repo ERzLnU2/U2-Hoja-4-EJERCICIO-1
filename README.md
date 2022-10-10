@@ -33,13 +33,14 @@ public class Ejercicio1{
          System.out.printf("\nRadio del circulo del segundo circulo nada mas crearlo: %,.2f",verRadio2.getRadio2());
     }
 }
+
 ´´´
 
-
-![1](https://user-images.githubusercontent.com/80227002/194963631-7e737739-cc55-4909-a336-3be9a1fb15d5.png)
+![1](https://user-images.githubusercontent.com/80227002/194963972-000f0ec3-4d00-4e76-8382-7ae2ba066704.png)
 
 
 ```java
+
 public class circulo { 
      private float Radio; // atributo privado de tipo float llamado Radio
      public circulo(){} //constructor que permite declarar objetos sin inicializar
