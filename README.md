@@ -35,11 +35,11 @@ public class Ejercicio1{
          System.out.printf("\nRadio del circulo del segundo circulo nada mas crearlo: %,.2f",verRadio2.getRadio2());
     }
 }
-
-´´´
-
+```
+    <hr>
 
 ```java
+
 
 public class circulo { 
      private float Radio; // atributo privado de tipo float llamado Radio
