@@ -21,6 +21,8 @@ constructores en JAVA con get y set para radio de circulo.
        Radio del circulo del primer circulo una vez establecido un radio : 6,30
        Radio del circulo del segundo circulo nada más crearlo: 10.0
  
+ ![1](https://user-images.githubusercontent.com/80227002/194964086-c439963b-6ccc-4dd3-b45e-a257e0ab7851.png)
+
  
 ```java
 public class Ejercicio1{
@@ -35,9 +37,6 @@ public class Ejercicio1{
 }
 
 ´´´
-
-![1](https://user-images.githubusercontent.com/80227002/194963972-000f0ec3-4d00-4e76-8382-7ae2ba066704.png)
-
 
 ```java
 
