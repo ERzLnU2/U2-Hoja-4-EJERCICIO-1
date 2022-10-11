@@ -32,7 +32,7 @@ public class Ejercicio1{
          circulo verRadio2=new circulo();  
                  verRadio2.getRadio2(10);
          System.out.printf("\nRadio del circulo del primer circulo una vez establecido un radio : %,.2f",verRadio.getRadio());
-         System.out.printf("\nRadio del circulo del segundo circulo nada mas crearlo: %,.2f",verRadio2.getRadio2());
+         System.out.printf("\nRadio del circulo del segundo circulo nada mas crearlo: %,.1f",verRadio2.getRadio2());
     }
 }
 ```
